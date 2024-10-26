@@ -1,3 +1,3 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React.
+I have created a compelling portfolio to effectively showcase my skills, experience, and projects.
