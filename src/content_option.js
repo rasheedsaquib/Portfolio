@@ -181,8 +181,8 @@ const dataportfolio = [
 ];
 
 const socialprofils = {
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/rasheedsaquib",
+    linkedin: "https://www.linkedin.com/in/mohammed-abdul-rasheed-629665200/",
     twitter: "https://twitter.com",
 };
 export {
